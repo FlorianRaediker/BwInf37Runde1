@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg baseProfile="full" height="70" version="1.1" width="185" xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs/>
+  <text fill="black" font-family="Arial" font-size="20" text-anchor="start" x="0" y="15">~500.000Ω</text>
+  <g transform="translate(0,20)">
+    <g transform="translate(15.0,0)">
+      <line stroke="black" x1="0" x2="15" y1="15.0" y2="15.0"/>
+      <g transform="translate(15,0.0)">
+        <g transform="translate(15.0,0)">
+          <rect fill="rgb(218, 218, 218)" height="10" stroke="black" width="40" x="0" y="0"/>
+          <text dy="0.35em" fill="black" font-family="Arial" font-size="10" text-anchor="middle" x="20.0" y="5.0">1200Ω</text>
+        </g>
+        <line stroke="black" x1="7.5" x2="15.0" y1="5.0" y2="5.0"/>
+        <line stroke="black" x1="55.0" x2="62.5" y1="5.0" y2="5.0"/>
+        <g transform="translate(15.0,20)">
+          <rect fill="rgb(218, 218, 218)" height="10" stroke="black" width="40" x="0" y="0"/>
+          <text dy="0.35em" fill="black" font-family="Arial" font-size="10" text-anchor="middle" x="20.0" y="5.0">3300Ω</text>
+        </g>
+        <line stroke="black" x1="7.5" x2="15.0" y1="25.0" y2="25.0"/>
+        <line stroke="black" x1="55.0" x2="62.5" y1="25.0" y2="25.0"/>
+        <line stroke="black" x1="0" x2="7.5" y1="15.0" y2="15.0"/>
+        <line stroke="black" x1="62.5" x2="70" y1="15.0" y2="15.0"/>
+        <line stroke="black" x1="7.5" x2="7.5" y1="5.0" y2="25.0"/>
+        <line stroke="black" x1="62.5" x2="62.5" y1="5.0" y2="25.0"/>
+      </g>
+      <line stroke="black" x1="85" x2="100" y1="15.0" y2="15.0"/>
+      <g transform="translate(100,10.0)">
+        <rect fill="rgb(218, 218, 218)" height="10" stroke="black" width="40" x="0" y="0"/>
+        <text dy="0.35em" fill="black" font-family="Arial" font-size="10" text-anchor="middle" x="20.0" y="5.0">120Ω</text>
+      </g>
+      <line stroke="black" x1="140" x2="155" y1="15.0" y2="15.0"/>
+    </g>
+    <line stroke="black" x1="7.5" x2="15.0" y1="15.0" y2="15.0"/>
+    <line stroke="black" x1="170.0" x2="177.5" y1="15.0" y2="15.0"/>
+    <g transform="translate(72.5,40)">
+      <rect fill="rgb(218, 218, 218)" height="10" stroke="black" width="40" x="0" y="0"/>
+      <text dy="0.35em" fill="black" font-family="Arial" font-size="10" text-anchor="middle" x="20.0" y="5.0">1000Ω</text>
+    </g>
+    <line stroke="black" x1="7.5" x2="72.5" y1="45.0" y2="45.0"/>
+    <line stroke="black" x1="112.5" x2="177.5" y1="45.0" y2="45.0"/>
+    <line stroke="black" x1="0" x2="7.5" y1="25.0" y2="25.0"/>
+    <line stroke="black" x1="177.5" x2="185" y1="25.0" y2="25.0"/>
+    <line stroke="black" x1="7.5" x2="7.5" y1="15.0" y2="45.0"/>
+    <line stroke="black" x1="177.5" x2="177.5" y1="15.0" y2="45.0"/>
+  </g>
+</svg>
